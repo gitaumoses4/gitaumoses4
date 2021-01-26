@@ -11,7 +11,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Github Activity
-[![Github stats](https://github-readme-stats.vercel.app/api?username=gitaumoses4&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=gitaumoses4&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me on
 
